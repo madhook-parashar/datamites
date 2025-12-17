@@ -1,7 +1,7 @@
 this is my first text file
 updated
-
-
 updated in barnch b1
 
  - content updated
+updated in barnch b2 content
+
