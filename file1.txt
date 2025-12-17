@@ -2,4 +2,4 @@ this is my first text file
 updated
 
 
-updated in barnch b1
+updated in barnch b2 content
